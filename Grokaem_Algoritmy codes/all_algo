@@ -1,0 +1,9 @@
+Array
+Search O(logn)
+Put O(n)
+Delete O(n)
+
+Binary tree 
+Search O(logn)
+Put O(logn)
+Delete O(logn)
